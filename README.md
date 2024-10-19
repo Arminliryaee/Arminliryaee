@@ -1,7 +1,14 @@
 ## Hi there 👋
 
+<!--[![resume](https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gitea.com/imanbakhtiari/resume) 
+-->
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arminliryaee)[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arminlry8)[![gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liryaeearmin50@gmail.com)
+<!--[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imanbakhtiari)-->
+
 <!--
-**Arminliryaee/Arminliryaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**imanbakhtiari/imanbakhtiari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +21,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanbakhtiari&layout=compact&langs_count=10&card_width=320" />
+</a>
+<a href="https://github.com/imanbakhtiari/github-readme-stats">
+  <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=imanbakhtiari&rank_icon=github" />
+</a>
+
+<br clear="left" />
+
+<p align="center">
+  <img src="seinfeld-george.gif" />
+</p>
