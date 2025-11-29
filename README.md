@@ -10,17 +10,3 @@
 I’m Armin, a developer passionate about open-source and building cool projects.  
 Currently learning **backend development** and exploring **cloud technologies**.
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arminliryaee&layout=compact&langs_count=10&card_width=320&cache_seconds=1800" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Arminliryaee&show_icons=true&rank_icon=github&cache_seconds=1800" />
-</p>
-
----
-
-### 🎬 Fun Corner
-<p align="center">
-  <img src="./seinfeld-george.gif" width="300" />
-</p>
